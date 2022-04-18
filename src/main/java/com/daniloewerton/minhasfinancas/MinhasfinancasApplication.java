@@ -1,4 +1,4 @@
-package com.daniloewerton.minhasfinancas.minhasfinancas;
+package com.daniloewerton.minhasfinancas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
